@@ -1,7 +1,12 @@
 # Unscented Kalman Filter Project Starter Code
-Self-Driving Car Engineer Nanodegree Program
 
----
+
+##Introduction to Unscented Kalman Filter
+The unscented Kalman filter is a way to improve on the extended Kalman Filter. Unlike the EKF the UKF does not linearize the state equations.
+It relies on constructing sigma points that get propagated through the state vector model.
+
+
+
 
 ## Dependencies
 
